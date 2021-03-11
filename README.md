@@ -1,2 +1,2 @@
 # Calligraphy_Website
-Animated front page.
+Animated Home Page
